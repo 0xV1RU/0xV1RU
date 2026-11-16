@@ -9,7 +9,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050A14,50:003B50,100:00D9FF&height=180&section=header&text=0xV1RU&fontSize=65&fontColor=00E5FF&fontAlignY=38&desc=CYBERSECURITY%20%7C%20PENETRATION%20TESTING&descSize=14&descAlignY=60&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050A14,50:003B50,100:00D9FF&height=180&section=header&text=0xV1RU&fontSize=65&fontColor=00E5FF&fontAlignY=38&desc=Cyber%20Security%20%7c%20Red%20Teaming%20%7C%20Penetration%20Testing&descSize=14&descAlignY=60&animation=fadeIn" width="100%"/>
 <!--
 ```text
           .---------------------------------------.
@@ -26,21 +26,21 @@
           '---------------------------------------'
 ```
 -->
-### `> WHOAMI`
+### `>_ WHOAMI`
 
 **Cybersecurity Learner | Aspiring Penetration Tester | CTF Enthusiast**
 
 *"Think like an attacker. Secure like a defender."*
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/YOUR_GITHUB_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00E5FF)](YOUR_LINKEDIN_URL)
-[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00E5FF)](YOUR_TELEGRAM_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/0xV1RU)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00E5FF)](https://www.linkedin.com/in/virendra-khunte-842273293/)
+[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00E5FF)](t.me/sanatani_pentester)
 
 </div>
 
 ---
 
-## `// ABOUT ME`
+### `// ABOUT ME`
 
 ```bash
 ┌──(0xV1RU㉿kali)-[~]
@@ -56,7 +56,7 @@
 
 ---
 
-## `// TECHNICAL ARSENAL`
+### `// TECHNICAL ARSENAL`
 
 <div align="center">
 
@@ -78,7 +78,7 @@
 
 ---
 
-## `// AREAS OF INTEREST`
+### `// AREAS OF INTEREST`
 
 ```text
 [+] Web Application Security
@@ -93,7 +93,7 @@
 
 ---
 
-## `// CURRENT OPERATIONS`
+### `// CURRENT OPERATIONS`
 
 | Mission | Status |
 |:---|:---|
@@ -105,7 +105,7 @@
 
 ---
 
-## `// GITHUB STATISTICS`
+### `// GITHUB STATISTICS`
 
 <div align="center">
 
@@ -119,7 +119,7 @@
 
 ---
 
-## `// CONTRIBUTION ACTIVITY`
+### `// CONTRIBUTION ACTIVITY`
 
 <div align="center">
 
@@ -129,7 +129,7 @@
 
 ---
 
-## `// CONNECT WITH ME`
+### `// CONNECT WITH ME`
 
 <div align="center">
 
