@@ -10,7 +10,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050A14,50:003B50,100:00D9FF&height=180&section=header&text=0xV1RU&fontSize=65&fontColor=00E5FF&fontAlignY=38&desc=CYBERSECURITY%20%7C%20PENETRATION%20TESTING&descSize=14&descAlignY=60&animation=fadeIn" width="100%"/>
-
+<!--
 ```text
           .---------------------------------------.
           |            ACCESS GRANTED              |
@@ -25,7 +25,7 @@
           |                                       |
           '---------------------------------------'
 ```
-
+-->
 ### `> WHOAMI`
 
 **Cybersecurity Learner | Aspiring Penetration Tester | CTF Enthusiast**
@@ -40,7 +40,7 @@
 
 ---
 
-## `01 // ABOUT ME`
+## `// ABOUT ME`
 
 ```bash
 ┌──(0xV1RU㉿kali)-[~]
@@ -56,7 +56,7 @@
 
 ---
 
-## `02 // TECHNICAL ARSENAL`
+## `// TECHNICAL ARSENAL`
 
 <div align="center">
 
@@ -72,13 +72,13 @@
 <img src="https://img.shields.io/badge/Hydra-00D9FF?style=flat-square&logoColor=black"/>
 
 ### Programming & Development
-<img src="https://skillicons.dev/icons?i=python,bash,html,css,js,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,bash,html,github,vscode&theme=dark" />
 
 </div>
 
 ---
 
-## `03 // AREAS OF INTEREST`
+## `// AREAS OF INTEREST`
 
 ```text
 [+] Web Application Security
@@ -93,7 +93,7 @@
 
 ---
 
-## `04 // CURRENT OPERATIONS`
+## `// CURRENT OPERATIONS`
 
 | Mission | Status |
 |:---|:---|
@@ -105,37 +105,37 @@
 
 ---
 
-## `05 // GITHUB STATISTICS`
+## `// GITHUB STATISTICS`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&bg_color=00000000"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=0xV1RU&show_icons=true&theme=transparent&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&bg_color=00000000"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=00D9FF&text_color=C9D1D9&bg_color=00000000"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xV1RU&layout=compact&theme=transparent&hide_border=true&title_color=00D9FF&text_color=C9D1D9&bg_color=00000000"/>
 
-<img width="95%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
+<img width="95%" src="https://streak-stats.demolab.com?user=0xV1RU&theme=transparent&hide_border=true&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
 
 </div>
 
 ---
 
-## `06 // CONTRIBUTION ACTIVITY`
+## `// CONTRIBUTION ACTIVITY`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=00000000&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=0xV1RU&bg_color=00000000&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 </div>
 
 ---
 
-## `07 // CONNECT WITH ME`
+## `// CONNECT WITH ME`
 
 <div align="center">
 
 **Open to learning, collaboration and cybersecurity opportunities.**
 
-[![GitHub](https://img.shields.io/badge/Explore_My_Repositories-000000?style=for-the-badge&logo=github&logoColor=00D9FF)](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories)
+[![GitHub](https://img.shields.io/badge/Explore_My_Repositories-000000?style=for-the-badge&logo=github&logoColor=00D9FF)](https://github.com/0xV1RU?tab=repositories)
 
 </div>
 
