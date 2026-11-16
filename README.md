@@ -34,7 +34,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/0xV1RU)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00E5FF)](https://www.linkedin.com/in/virendra-khunte-842273293/)
-[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00E5FF)](t.me/sanatani_pentester)
+[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00E5FF)](https://t.me/sanatani_pentester)
 
 </div>
 
